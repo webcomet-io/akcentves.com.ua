@@ -1,0 +1,14 @@
+@import "../../../styles/colors";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+.orderBtn {
+    border: 0;
+    background-color: $akcent;
+    color: $background-one;
+    padding: 5px 10px;
+    border-radius: 6px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}

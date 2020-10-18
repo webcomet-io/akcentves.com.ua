@@ -1,0 +1,13 @@
+@import "../../../styles/colors";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.moreBtn {
+    border: 1px solid $akcent;
+    background: none;
+    border-radius: 6px;
+    padding: 3px 15px;
+    color: $main;
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
